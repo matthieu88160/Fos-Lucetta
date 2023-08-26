@@ -1,0 +1,3 @@
+/etc/hostname
+/var/log/*.log
+/lib/json.lua
